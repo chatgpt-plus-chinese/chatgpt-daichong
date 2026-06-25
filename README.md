@@ -6,7 +6,7 @@
 ![成功率](https://img.shields.io/badge/成功率-100%25-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-> 📅 **最后更新：2026年6月16日** | 每月核查更新，确保时效性 ✅
+> 📅 **最后更新：2026年6月25日** | 每月核查更新，确保时效性 ✅
 >
 > 🔖 **本文关键词**：ChatGPT Plus 代充 · ChatGPT Plus 国内充值 · ChatGPT 代充 · 支付宝充值 ChatGPT · GPT-5 订阅
 
