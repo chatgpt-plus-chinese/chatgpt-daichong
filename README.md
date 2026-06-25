@@ -93,7 +93,7 @@ WildCard、野卡等曾经流行的虚拟卡已相继停止运营，目前可用
 打开专属充值链接，将卡密粘贴到输入框，点击验证。
 
 
-[![ChatGPT 卡密验证步骤]https://github.com/user-attachments/assets/5edd06f4-059d-4acb-a7fb-efe666b45d62)](https://t.3ms.run/gptcz)
+[![ChatGPT 卡密验证步骤](https://github.com/user-attachments/assets/5edd06f4-059d-4acb-a7fb-efe666b45d62)](https://t.3ms.run/gptcz)
 
 **2. 获取 Session 会话信息（关键步骤）**
 
